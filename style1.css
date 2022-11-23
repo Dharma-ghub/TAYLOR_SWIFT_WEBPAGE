@@ -1,0 +1,22 @@
+.blue
+{
+  color:purple;
+}
+h1 {
+  color:green;
+}
+.box
+{
+  height:100px;
+  width:1 em;
+  padding:20px;
+  margin:50px;
+  background-color:red;
+  border: 10px solid black;
+
+}
+body
+{
+  color:yellow;
+  font-size:40px;
+}
